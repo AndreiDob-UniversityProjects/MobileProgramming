@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310260984357",
+    "firebase_url": "https://text-note-b08e1.firebaseio.com",
+    "project_id": "text-note-b08e1",
+    "storage_bucket": "text-note-b08e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310260984357:android:cc3cf0b82b7b77cd102dcc",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310260984357-urrjtee0o70j6nf0p7oa15f0kgt1sed3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8POjZtcauD8qp_DE0j65Ou-aybySh3bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310260984357-urrjtee0o70j6nf0p7oa15f0kgt1sed3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
